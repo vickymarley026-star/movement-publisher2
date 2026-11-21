@@ -1,0 +1,50 @@
+{
+  "name": "Message",
+  "type": "object",
+  "properties": {
+    "conversation_id": {
+      "type": "string",
+      "title": "Conversation ID"
+    },
+    "sender_name": {
+      "type": "string",
+      "title": "Sender Name"
+    },
+    "sender_role": {
+      "type": "string",
+      "enum": [
+        "author",
+        "team"
+      ],
+      "default": "author",
+      "title": "Sender Role"
+    },
+    "content": {
+      "type": "string",
+      "title": "Content"
+    },
+    "read": {
+      "type": "boolean",
+      "default": false,
+      "title": "Read"
+    },
+    "reactions": {
+      "type": "string",
+      "title": "Reactions (JSON: emoji -> user_ids)",
+      "default": "{}"
+    },
+    "attachment_url": {
+      "type": "string",
+      "title": "Attachment URL"
+    },
+    "attachment_name": {
+      "type": "string",
+      "title": "Attachment Name"
+    }
+  },
+  "required": [
+    "conversation_id",
+    "sender_name",
+    "content"
+  ]
+}

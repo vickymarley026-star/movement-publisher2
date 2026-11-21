@@ -1,0 +1,41 @@
+{
+  "name": "ProjectFile",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "title": "Title"
+    },
+    "description": {
+      "type": "string",
+      "title": "Description"
+    },
+    "file_type": {
+      "type": "string",
+      "enum": [
+        "manuscript",
+        "cover",
+        "other"
+      ],
+      "default": "other",
+      "title": "File Type"
+    },
+    "file_url": {
+      "type": "string",
+      "title": "File URL"
+    },
+    "uploaded_by_name": {
+      "type": "string",
+      "title": "Uploaded By"
+    },
+    "author_name": {
+      "type": "string",
+      "title": "Author Name"
+    }
+  },
+  "required": [
+    "title",
+    "file_url",
+    "uploaded_by_name"
+  ]
+}

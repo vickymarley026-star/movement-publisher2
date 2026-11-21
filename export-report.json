@@ -1,0 +1,177 @@
+{
+  "exportedAt": "2026-11-21T14:15:33.653Z",
+  "exportDurationMs": 672382,
+  "fileCount": 66,
+  "assetCount": 39,
+  "resolvedAssetCount": 0,
+  "missingAssets": [
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/d514c5566_movement-publisher-logo.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/db2359382_oluwadamilola.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/images/public/6aa6a685c59b9c6221d8d5a1/dcb7b04cf_OgundokunVictor.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/images/public/6aa6a685c59b9c6221d8d5a1/2650c304c_17841685644971.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/team-florence.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/233625f40_pelumi.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/0aa133354_promise.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://cdn.phototourl.com/anon/2026-11-21-0ad10d98-b495-44b8-ae13-0896376be79d.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/images/public/6aa6a685c59b9c6221d8d5a1/b1bdc398c_AjibadeIfeoluwa.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/images/public/6aa6a685c59b9c6221d8d5a1/21eaf17a6_AdewunmiAyomide.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/team-suzan.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/team-opeyemi.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/cs-before-after.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://cdn.phototourl.com/anon/2026-11-21-6bdac29e-69eb-4305-92a9-a60d55239518.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/images/public/6ae56fc350b3f35b98b46ef3/fd4e20776_ipxTWD4TkFuLyGdJ6e3nkrKlS3UxhcrOfmvD50JkyrOf8rSOjlufezWccTcCisZ-Nx82Q-5ixU8KjoDMyIvNXzr_ERd6X08LLNaCMm40q8GIxhEvxVKcUyaXlq3Qg_VVe_F1iNUwB_q8ccUsaxOvp7VNksJSQG_BQqz42JDXYdDaoaTZ-_ZA_UJ13lCVx8oc.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/7c91c3ee1_ashes-to-the-ember-fae.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/5ff1112a9_bride-of-the-dying-world.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/hero-claimed-fae-1200.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/claimed-by-the-fae-wrap.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://movement-publisher.db.app/sold-to-the-demon-prince-wrap.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/2388f397f_claimed-by-the-fae.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/55ee89c92_orange-black-romance-cover-1.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/ad106f46c_orange-black-romance-cover-2.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/15c2e00ea_orange-black-romance-cover-3.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/images/public/6aa6a685c59b9c6221d8d5a1/25a986b68_generated_image.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/0928bec18_Addaheading17.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/25c5e0510_orange-black-romance-cover-5.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/69ca03221_orange-black-romance-cover-4.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/e6cc103bf_THE1.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/860d16a2f_orange-black-romance-cover-6.jpg",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://app.base44.com/hero-claimed-fae-1200.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://app.base44.com/cs-before-after.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/f945ae1f7_Addasubheading121.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/3ba251706_Addasubheading12.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://db.app/api/apps/6ae56fc350b3f35b98b46ef3/files/mp/public/6ae56fc350b3f35b98b46ef3/69b656c85_Addasubheading16.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://app.base44.com/hero-claimed-fae-640.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://app.base44.com/hero-claimed-fae-900.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://app.base44.com/hero-claimed-fae.png",
+      "error": "Failed to fetch"
+    },
+    {
+      "url": "https://media.db.com/files/public/builder-assets/wix-fonts/adobe-caslon-400-normal.woff2",
+      "error": "Failed to fetch"
+    }
+  ],
+  "warnings": [
+    "Preview iframe scan failed: Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://app.base44.com\" from accessing a cross-origin frame."
+  ],
+  "diagnostics": {
+    "exportState": "BUILDING_FILE_TREE",
+    "assetCount": 39,
+    "pendingFetches": 0,
+    "pendingImages": 0,
+    "domNodeCount": 4928,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "exportDurationMs": 672383
+  }
+}
